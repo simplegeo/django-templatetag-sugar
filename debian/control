@@ -1,0 +1,13 @@
+Source: python-django-templatetag-sugar
+Section: python
+Priority: optional
+Maintainer: Alex Gaynor <alex.gaynor@gmail.com>
+Homepage: https://github.com/alex/django-templatetag-sugar
+Bugs: https://github.com/alex/django-templatetag-sugar/issues
+Build-Depends: debhelper, python-support, python-setuptools
+
+Package: python-django-templatetag-sugar
+Architecture: all
+Depends: ${python:Depends}, python-support, python-django (>= 1.1.0)
+Provides: ${python:Provides}
+Description: This project exists to make defining template tags in Django kickass.

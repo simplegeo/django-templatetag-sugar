@@ -1,0 +1,5 @@
+python-django-templatetag-sugar (0.1.0-0) testing; urgency=low
+
+  * Initial Debian package
+
+ -- Jon Rohan <jonathanrohan@gmail.com>  Fri, 27 May 2011 16:25:00 -0500
